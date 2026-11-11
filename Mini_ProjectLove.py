@@ -1,7 +1,7 @@
 import json 
 
 data_keuangan = {
-     "saldo" : 0,
+     "saldo" : 100000,
      "riwayat_transaksi" : []
 }
 
